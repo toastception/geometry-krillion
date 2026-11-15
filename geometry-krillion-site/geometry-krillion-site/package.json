@@ -1,0 +1,9 @@
+{
+  "name": "geometry-krillion",
+  "version": "1.0.0",
+  "description": "Krillion-style Geometry Dash trivia with multiplayer rooms",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
